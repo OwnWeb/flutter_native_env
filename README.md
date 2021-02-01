@@ -2,7 +2,7 @@
 
 A flutter plugin getting android and iOS native env variables by calling `ProcessInfo.processInfo.environment[]` on iOS and `System.getProperty()` on android.
 
-It can be used to easily fetch environment variables added during build or no-code testing.
+It can be used to easily fetch environment variables added during build or no-code testing, like [flutter_is_waldo](https://pub.dev/packages/flutter_is_waldo).
 
 ## Usage
 Have a look on [installation page](https://pub.dev/packages/flutter_native_env/install).
