@@ -1,7 +1,6 @@
 name: flutter_native_env
 description: A new flutter plugin project.
 version: 0.0.1
-author: Hugo Heneault
 homepage: https://pub.dev/packages/flutter_native_env
 
 environment:
