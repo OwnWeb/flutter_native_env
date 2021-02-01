@@ -1,5 +1,5 @@
 name: flutter_native_env
-description: A new flutter plugin project.
+description: A flutter plugin getting android and iOS native env variables.
 version: 0.0.1+1
 repository: https://github.com/OwnWeb/flutter_native_env
 
