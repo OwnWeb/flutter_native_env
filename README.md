@@ -14,4 +14,4 @@ import 'package:flutter_native_env/flutter_native_env.dart';
 String platformArch = await FlutterNativeEnv.getNativeEnv('os.arch', 'unknown', iosPropertyName: 'SIMULATOR_ARCHS');  // e.g. "x86_64"
 ```
 
-You will find links to the API docs on the [pub page](https://pub.dev/packages/flutter_native_env).
+You will find links to the API docs on the [pub API reference page](https://pub.dev/documentation/flutter_native_env/latest/flutter_native_env/flutter_native_env-library.html).
