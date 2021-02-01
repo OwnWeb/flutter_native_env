@@ -3,6 +3,7 @@ import 'dart:io';
 
 import 'package:flutter/services.dart';
 
+/// Provides the [getNativeEnv] method
 class FlutterNativeEnv {
   static const MethodChannel _channel =
       const MethodChannel('flutter_native_env');
